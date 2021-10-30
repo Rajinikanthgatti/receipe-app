@@ -12,10 +12,10 @@ export const SearchField = () => {
     const APP_KEY = "32848d0989d60b71397f17ef72e75f31";
 
     useEffect(async () => {
-        console.log('useEffect')
         const response = await fetch(`https://api.edamam.com/api/recipes/v2?type=public&q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
         const data = await response.json();
         setResponse(data.hits);
+        console.log(data.hits)
     }, [query])
 
     return (
