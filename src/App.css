@@ -129,8 +129,13 @@ li{
   height: 50px;
   position: absolute;
   top: 50%;
+  z-index: 1;
+  opacity: 1;
 }
+.loader-div.search-field .receipe-menu-con{
+  opacity: 0;
 
+}
 @-webkit-keyframes spin {
   0% { -webkit-transform: rotate(0deg); }
   100% { -webkit-transform: rotate(360deg); }

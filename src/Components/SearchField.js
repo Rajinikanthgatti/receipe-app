@@ -22,7 +22,7 @@ export const SearchField = () => {
     }, [query])
 
     return (
-        <div className="search-field">
+        <div className={ loader === 'true' ? "loader-div search-field " : "search-field"}>
             {loader==='true'? <div className="loader"></div> : ''}
             <form>
                 <input type="text" className="search-box" value={text} onChange={e => setText(e.target.value)}></input>
