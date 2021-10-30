@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/receipe-app/static/css/main.f6f432d0.chunk.css",
-    "main.js": "/receipe-app/static/js/main.3ea9aaed.chunk.js",
-    "main.js.map": "/receipe-app/static/js/main.3ea9aaed.chunk.js.map",
+    "main.css": "/receipe-app/static/css/main.ac036024.chunk.css",
+    "main.js": "/receipe-app/static/js/main.db808bf3.chunk.js",
+    "main.js.map": "/receipe-app/static/js/main.db808bf3.chunk.js.map",
     "runtime-main.js": "/receipe-app/static/js/runtime-main.1f00ead0.js",
     "runtime-main.js.map": "/receipe-app/static/js/runtime-main.1f00ead0.js.map",
     "static/js/2.aaa33be4.chunk.js": "/receipe-app/static/js/2.aaa33be4.chunk.js",
     "static/js/2.aaa33be4.chunk.js.map": "/receipe-app/static/js/2.aaa33be4.chunk.js.map",
     "index.html": "/receipe-app/index.html",
-    "static/css/main.f6f432d0.chunk.css.map": "/receipe-app/static/css/main.f6f432d0.chunk.css.map",
+    "static/css/main.ac036024.chunk.css.map": "/receipe-app/static/css/main.ac036024.chunk.css.map",
     "static/js/2.aaa33be4.chunk.js.LICENSE.txt": "/receipe-app/static/js/2.aaa33be4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f00ead0.js",
     "static/js/2.aaa33be4.chunk.js",
-    "static/css/main.f6f432d0.chunk.css",
-    "static/js/main.3ea9aaed.chunk.js"
+    "static/css/main.ac036024.chunk.css",
+    "static/js/main.db808bf3.chunk.js"
   ]
 }
