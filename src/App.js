@@ -8,10 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Receipe Search</h1>
-      <Router>
-        <Route exact path="/" component={SearchField}></Route>
-        <Route exact path="/receipe" component={RecipeCard}></Route>
-      </Router>
+      <SearchField/>
     </div>
   );
 }
